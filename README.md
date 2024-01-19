@@ -1,2 +1,3 @@
 # demo
-Starting my github journey
+Starting my github journey.
+Author - Arpana Priya
